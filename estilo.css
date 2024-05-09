@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.divTitulo{
+    flex: 80%;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+body{
+    font-size: large;
+    background: -webkit-linear-gradient(to right, yellow, orange, red, purple);
+    background: linear-gradient(to right, yellow, orange, red, purple);
+}
+.imagen{
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+}
